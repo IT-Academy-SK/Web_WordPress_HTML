@@ -9,3 +9,7 @@
 
 
 <img src="https://www.vita.sk/wp-content/uploads/2018/10/adobe-indesign.png.webp" />
+
+
+
+<img src="https://www.vita.sk/wp-content/uploads/2019/07/sap-3.png.webp" />
