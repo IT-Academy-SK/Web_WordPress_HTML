@@ -16,3 +16,5 @@
 
 
 <img src="https://www.vita.sk/wp-content/uploads/2019/07/Python.png.webp" />
+
+<img src="https://www.vita.sk/wp-content/uploads/2022/05/online-kurz-Projektovy-Management.png.webp" />
